@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">網路廣播電台</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="radio_channel">電台:</string>
+    <string name="play">播放</string>
+    <string name="stop">停止</string>
+	<string name="temperature_city"></string>
+    <string name="wait_message">處理中請稍後....</string>
+    <string name="network_notconnetced">網路未連接, 請開啟網路連線。</string>
+    <string name="enter_url">請輸入mms的網址</string>
+    <string name="ok">確定</string>
+    <string name="cancel">取消</string>
+    <string name="Now_Playing">現在正在播放 </string>
+    <string name="Comment">評論</string>
+    <string name="UserAddUrl">新增</string>
+    <string name="Favorites">最愛</string>
+    <string name="Url_Name_Tip">請輸入電台名稱</string>
+      <string name="Update_failure">更新失敗</string>
+    <string-array name="channel_name">
+        <item>ASIAFM衛星音樂台</item>
+        <item>Apple line 蘋果線上</item>
+        <item>BestRadio 台中好事</item>
+        <item>BestRadio 台北好事</item>
+        <item>BestRadio 花蓮好事</item>
+        <item>BestRadio 高雄港都</item>
+        <item>Flyradio飛揚調頻</item>
+        <item>KISS RADIO 大苗栗廣播</item>
+        <item>KISS RADIO大眾廣播電台</item>
+        <item>KISSRadio 網路音樂台</item>
+        <item>POP Radio</item>
+        <item>中廣古典網</item>
+        <item>中廣流行網</item>
+        <item>中廣音樂網i radio</item>
+        <item>佳音CCM</item>
+        <item>全國廣播音樂網</item>
+        <item>台北之音HitFM聯播網 台中</item>
+        <item>台北之音HitFM聯播網 台北</item>
+        <item>台北之音HitFM聯播網 高雄</item>
+        <item>台北愛樂</item>
+        <item>台灣之音-音樂</item>
+        <item>太陽電台</item>
+        <item>奇美古典音樂網</item>
+        <item>寶島新聲廣播電台</item>
+        <item>ASIA FM92.3亞太電台</item>
+        <item>ASIA FM92.7亞州電台</item>
+        <item>GOLD FM-台中城市廣播</item>
+        <item>GOLD FM-台北健康電台</item>
+        <item>IC之音</item>
+        <item>佳音廣播電台</item>
+        <item>佳音電台2台</item>
+        <item>全國廣播</item>
+        <item>台中廣播</item>
+        <item>台北廣播電台- 都會資訊頻道</item>
+        <item>台北廣播電台喔海洋頻道</item>
+        <item>大千電台</item>
+        <item>大愛網路電台</item>
+        <item>宜蘭中山電台</item>
+        <item>環宇廣播</item>
+        <item>真心之音廣播電台</item>
+        <item>青春線上</item>
+        <item>飛碟電台</item>
+        <item>NEWS98新聞網</item>
+        <item>中廣新聞網</item>
+        <item>台灣之音-華語</item>
+        <item>復興廣播電台 短波網</item>
+        <item>復興廣播電台 第一網</item>
+        <item>復興廣播電台 第二網 </item>
+        <item>正聲台北調幅台</item>
+        <item>正聲台北調頻台</item>
+        <item>漢聲光華網-中波</item>
+        <item>漢聲光華網-短波</item>
+        <item>漢聲廣播電台</item>
+        <item>漢聲廣播電台全國調頻網</item>
+        <item>綠色和平台灣文化廣播電台</item>
+        <item>ICRT</item>>
+        <item>台灣之音-FM</item>
+        <item>台灣之音-亞洲</item>
+        <item>台灣之音-歐美及方言</item>
+        <item>中廣客家頻道</item>
+        <item>大漢之音</item>
+        <item>寶島客家</item>
+        <item>新客家廣播電台</item>
+        <item>高屏溪客家電台</item>
+        
+    </string-array>
+        <string name="sLine">-------------------------------------------</string>
+        <string name="save">存檔</string>
+        <string name="Cancel">取消</string>
+        <string name="EditStation">編輯</string>
+        <string name="StationName">名稱：</string>
+        <string name="MMSURL">位址：</string>
+        <string name="delete">刪除</string>
+        <string name="Comment2">評論:</string>
+       
+        
+
+</resources>

@@ -1,0 +1,4 @@
+1. 編譯時, 須將"InternetRadio2"、"vitamio"放在同一個目錄下.
+2. 右鍵Vitamio->Android->Library, 確認"Is Library"是否打勾.
+3. 右鍵InternetRadio->Android->Library, 確認"Reference"前面的圖示是否打勾.如果是打X, 就要確認該library的位置.
+4. 需注意Vitamio.initialize(RadioService.this)要加, 否則會有"UnsatisfiedLinkError - Cannot load library"的error出現.
